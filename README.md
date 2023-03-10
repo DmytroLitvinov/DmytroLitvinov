@@ -21,7 +21,7 @@ My name is Dmytro Litvinov and I'm a Python developer.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=008000)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=008000)
 
-## 🌱 My Digital Garden
+## ✍ Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at
 [DmytroLitvinov.com](https://dmytrolitvinov.com/) as well as on
