@@ -38,6 +38,10 @@ A sample of my recent articles:
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
 
+-----
+This page's statistics:
+
+[![Dmytro Litvinov profile views](https://u8views.com/api/v1/github/profiles/16066485/views/day-week-month-total-count.svg)](https://u8views.com/github/DmytroLitvinov)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
