@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DmytorLitvinov/DmytorLitvinov/main/readme_header.png "Header")](https://dmytrolitvinov.com/)
+[![Header](https://raw.githubusercontent.com/DmytroLitvinov/DmytroLitvinov/main/readme_header.png "Header")](https://dmytrolitvinov.com/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/DmytroLitvinov/DmytroLitvinov/main/wave.gif" width="30px" height="30px" />
 
