@@ -34,9 +34,9 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to write better Git commits 🔨](https://dmytrolitvinov.com/how-to-write-better-git-commits/)
-- [From Static to Dynamic: How I Migrated my Website to Ghost CMS on DigitalOcean](https://dmytrolitvinov.com/redesign-launch-of-website/)
-- [Coming soon](https://dmytrolitvinov.com/coming-soon/)
+- [How to write better Git commits 🔨](https://dmytrolitvinov.com/blog/how-to-write-better-git-commits/)
+- [From Static to Dynamic: How I Migrated my Website to Ghost CMS on DigitalOcean](https://dmytrolitvinov.com/blog/redesign-launch-of-website/)
+- [Coming soon](https://dmytrolitvinov.com/blog/coming-soon/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
