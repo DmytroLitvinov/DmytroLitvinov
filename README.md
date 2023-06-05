@@ -34,10 +34,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [📰 Monthly digests: May 2023](https://dmytrolitvinov.com/blog/digest-may-2023/)
 - [📰 Monthly digests: April 2023](https://dmytrolitvinov.com/blog/digest-april-2023/)
 - [📰 Monthly digests: March 2023](https://dmytrolitvinov.com/blog/digest-march-2023/)
 - [How to write better Git commits 🔨](https://dmytrolitvinov.com/blog/how-to-write-better-git-commits/)
-- [From Static to Dynamic: How I Migrated my Website to Ghost CMS on DigitalOcean](https://dmytrolitvinov.com/blog/redesign-launch-of-website/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
