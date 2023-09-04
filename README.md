@@ -34,10 +34,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [📰 Monthly digests: August 2023](https://dmytrolitvinov.com/blog/digest-august-2023/)
 - [📰 Monthly digests: July 2023](https://dmytrolitvinov.com/blog/digest-july-2023/)
 - [📰 Monthly digests: June 2023](https://dmytrolitvinov.com/blog/digest-june-2023/)
 - [📰 Monthly digests: May 2023](https://dmytrolitvinov.com/blog/digest-may-2023/)
-- [📰 Monthly digests: April 2023](https://dmytrolitvinov.com/blog/digest-april-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
