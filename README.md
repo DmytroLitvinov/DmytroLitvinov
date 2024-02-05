@@ -34,10 +34,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [🔍 Basic Principles of Software Monitoring](https://dmytrolitvinov.com/blog/basic-principles-of-software-monitoring/)
 - [📰 Monthly digests: January 2024](https://dmytrolitvinov.com/blog/monthly-digests-january-2024/)
 - [📐 Architecture Decision Record](https://dmytrolitvinov.com/blog/architecture-decision-record/)
 - [📰 Monthly digests: August 2023](https://dmytrolitvinov.com/blog/digest-august-2023/)
-- [📰 Monthly digests: July 2023](https://dmytrolitvinov.com/blog/digest-july-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
