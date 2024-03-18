@@ -34,10 +34,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [📌 Tech Giants Engineering blogs](https://dmytrolitvinov.com/blog/tech-giants-engineering-blogs/)
 - [👊 How we started to use Impact Analysis](https://dmytrolitvinov.com/blog/how-we-started-to-use-impact-analysis-in-the-softformance/)
 - [📰 Monthly digests: February 2024](https://dmytrolitvinov.com/blog/digest-february-2024/)
 - [🔍 Basic Principles of Software Monitoring](https://dmytrolitvinov.com/blog/basic-principles-of-software-monitoring/)
-- [📰 Monthly digests: January 2024](https://dmytrolitvinov.com/blog/monthly-digests-january-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
