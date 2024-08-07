@@ -24,12 +24,10 @@ My name is Dmytro Litvinov and I'm a Python developer.
 ## ✍ Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at
-[DmytroLitvinov.com](https://dmytrolitvinov.com/) as well as on
-[Medium](https://dmytrolitvinov.medium.com/),
-[DEV.to](https://dev.to/dmytrolitvinov),
-and [Hashnode](https://hashnode.dmytrolitvinov.com/).
+[DmytroLitvinov.com](https://dmytrolitvinov.com/) as well as on ![значок](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Ft.me%2Fthe_software_sage&query=%2F%2Fdiv%5B%40class%3D%22tgme_page_extra%22%5D&logo=data%3Aimage%2Fsvg%2Bxml%3Bcharset%3Dutf-8%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPg0KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4NCiAgPHBhdGggZD0iTTI5LjkxOSA2LjE2M2wtNC4yMjUgMTkuOTI1Yy0wLjMxOSAxLjQwNi0xLjE1IDEuNzU2LTIuMzMxIDEuMDk0bC02LjQzOC00Ljc0NC0zLjEwNiAyLjk4OGMtMC4zNDQgMC4zNDQtMC42MzEgMC42MzEtMS4yOTQgMC42MzFsMC40NjMtNi41NTYgMTEuOTMxLTEwLjc4MWMwLjUxOS0wLjQ2Mi0wLjExMy0wLjcxOS0wLjgwNi0wLjI1NmwtMTQuNzUgOS4yODgtNi4zNS0xLjk4OGMtMS4zODEtMC40MzEtMS40MDYtMS4zODEgMC4yODgtMi4wNDRsMjQuODM3LTkuNTY5YzEuMTUtMC40MzEgMi4xNTYgMC4yNTYgMS43ODEgMi4wMTN6Ii8%2BDQo8L3N2Zz4%3D&logoColor=%23FFFFFF&label=Telegram)
 
 I share my insights and expertise on software development, coding, and design, as well as offering practical tips and advice on how to become a better developer 🚀
+
 
 A sample of my recent articles:
 
