@@ -32,10 +32,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [📰 Monthly digests: January 2025](https://dmytrolitvinov.com/blog/monthly-digests-january-2025/)
 - [Migration from Authy to 2FAS](https://dmytrolitvinov.com/blog/migration-from-authy-to-2fas/)
 - [📰 Monthly digests: July 2024](https://dmytrolitvinov.com/blog/monthly-digests-july-2024/)
 - [Django FileField validation and how we paid 550 CHF for that](https://dmytrolitvinov.com/blog/django-filefield-validation/)
-- [📰 Monthly digests: April 2024](https://dmytrolitvinov.com/blog/monthly-digests-april-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
