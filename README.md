@@ -32,10 +32,10 @@ I share my insights and expertise on software development, coding, and design, a
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [How I started to import datetime module in Python](https://dmytrolitvinov.com/blog/enforce-import-datetime-module/)
 - [📰 Monthly digests: February 2025](https://dmytrolitvinov.com/blog/monthly-digests-february-2025/)
 - [My first Kaggle competition](https://dmytrolitvinov.com/blog/my-first-kaggle-competition/)
 - [📰 Monthly digests: January 2025](https://dmytrolitvinov.com/blog/monthly-digests-january-2025/)
-- [Migration from Authy to 2FAS](https://dmytrolitvinov.com/blog/migration-from-authy-to-2fas/)
 <!-- BLOG-POST-LIST:END -->
 
 💌 Sign up for my [newsletter](https://dmytrolitvinov.com/#/portal/signup/)
