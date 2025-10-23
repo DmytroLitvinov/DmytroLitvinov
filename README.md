@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/DmytroLitvinov/DmytroLitvinov/main/wave.gif" width="30px" height="30px" />
 
 My name is Dmytro Litvinov and I'm a Python developer.
-- 🔭 I'm currently looking for a job
+- 🔭 Senior Software Engineer at [EPAM Systems](https://www.epam.com/)
 - 💬 Ask me about Python/Django
 - 📫 How to reach me: [twitter](https://twitter.com/DmytroLitvinov)
 - 😄 Pronouns: [he/him](https://pronouns.org/he-him)
